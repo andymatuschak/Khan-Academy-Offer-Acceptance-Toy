@@ -20,7 +20,7 @@ I wanted to make something that would communicate that feeling, both as a stake 
 Plug
 ----
 
-Want to work with [me](http://andymatuschak.org), [a preeminent designer](http://twitter.com/mayli), and [tons of other lovely people](https://www.khanacademy.org/about) to define the form for educational content on interactive media? Are you an outstanding engineer or designer? [mailto:andy@andymatuschak.org](We need your help.)
+Want to work with [me](http://andymatuschak.org), [a preeminent designer](http://twitter.com/mayli), and [tons of other lovely people](https://www.khanacademy.org/about) to define the form for educational content on interactive media? Are you an outstanding engineer or designer? We need your help: andy@andymatuschak.org.
 
 Note about Yosemite
 -------------------
