@@ -1,0 +1,13 @@
+PODS:
+  - PocketSVG (0.6)
+  - Tweaks (1.1.0)
+
+DEPENDENCIES:
+  - PocketSVG (~> 0.6)
+  - Tweaks (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  PocketSVG: 96d5006ddef2918f45e6c24631372c63c1a67c27
+  Tweaks: 9337b5c9466d828bd6d69af3ccc124097472efad
+
+COCOAPODS: 0.32.1
