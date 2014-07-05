@@ -5,6 +5,8 @@ This was the playful way that I accepted my offer to become [Khan Academy's](htt
 
 ![Screenshot of §](https://github.com/andymatuschak/Khan-Academy-Offer-Acceptance-Toy/raw/master/Screenshot.jpg)
 
+Check out [a video](http://life.khanacademy.org/post/87602482963/a-mobile-dev-sends-a-cryptic-message-a-k-a-proof).
+
 Story
 -----
 
